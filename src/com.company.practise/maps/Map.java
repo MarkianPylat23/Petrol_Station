@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Map {
-    public void playMap(){
+    public void playMap() {
         List<String> namesList = new ArrayList<>();
 
         namesList.add("Marik");
@@ -18,5 +18,10 @@ public class Map {
         namesList.remove("John");
 
         System.out.println(namesList);
+        System.out.println(namesList.get(2));
+
+        if (namesList.contains("Marik")) {
+            System.out.println("Marik is present");
+        }
     }
 }
