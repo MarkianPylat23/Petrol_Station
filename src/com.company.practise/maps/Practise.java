@@ -34,9 +34,9 @@ public class Practise {
 
         Set<Map.Entry<String, Integer>> set = hashMap.entrySet();
 
-        for (Map.Entry<String, Integer> me : set) {
-            System.out.print(me.getKey() + ": ");
-            System.out.println(me.getValue());
+        for (Map.Entry<String, Integer> cars : set) {
+            System.out.print(cars.getKey() + ": ");
+            System.out.println(cars.getValue());
         }
 
         int value = hashMap.get("BMW");
