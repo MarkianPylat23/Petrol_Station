@@ -8,5 +8,7 @@ public class AppRunner {
         new Map().playMap();
         System.out.println("===========");
         new Practise().tryHashMap();
+        System.out.println("+++++++++++++++++++++");
+        new Practise().tryAnotherMap();
     }
 }
