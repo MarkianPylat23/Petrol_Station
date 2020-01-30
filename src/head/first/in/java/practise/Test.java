@@ -1,4 +1,4 @@
-package com.company.petrol.station.HeadFirst_in_Java;
+package head.first.in.java.practise;
 
 public class Test {
     public static void main(String[] args) {

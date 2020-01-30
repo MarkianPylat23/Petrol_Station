@@ -1,4 +1,4 @@
-package com.company.petrol.station.FinalProjectInJava;
+package finished.project.in.java;
 
 import java.util.Scanner;
 

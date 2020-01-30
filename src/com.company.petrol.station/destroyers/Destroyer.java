@@ -1,4 +1,4 @@
-package com.company.petrol.station.Destroyers;
+package com.company.petrol.station.destroyers;
 
 public class Destroyer {
     public int speed1 = 300;
