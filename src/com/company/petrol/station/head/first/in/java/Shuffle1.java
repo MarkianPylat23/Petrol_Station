@@ -1,4 +1,4 @@
-package head.first.in.java.practise;
+package com.company.petrol.station.head.first.in.java;
 
 public class Shuffle1 {
     public static void main(String[] args) {
