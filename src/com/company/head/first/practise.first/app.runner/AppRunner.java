@@ -13,6 +13,9 @@ public class AppRunner {
 //        sheila.bark();
 
         MyClass obj = new MyClass();
-        System.out.println(obj.sout);
+        System.out.println(obj.getS());
+
+        obj.setSout("It's new");
+        System.out.println(obj.getS());
     }
 }
